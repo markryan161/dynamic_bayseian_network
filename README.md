@@ -1,4 +1,4 @@
-# dynamic_bayseian_network
+# Dynamic Bayesian Network using Particle Filter for RUL prediction of Batteries
 Thesis on dynamic bayseian network applied to artificial test problem.
 
 Read thesis before for details
